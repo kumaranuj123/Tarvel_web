@@ -1,0 +1,67 @@
+body
+{
+margin: 0;
+padding: 0;
+background: efefef;
+background: url(20310.jpg);
+font-size: 16px;
+color: #777; 
+font-family: sans-serif;
+font-weigth: 300;
+}
+.login h1{
+border:#FFFF00;
+border-radius: 8px;
+color: #FFFFFF;
+background:url(source.gif);
+border-bottom:#FF0000;
+border-style: double;
+}
+.login
+{
+display:block;
+background: url(orig.gif);
+border-radius: 15px;
+position: relative;
+margin: auto;
+height: 420px;
+width: 350px;
+Box-shadow: 0 10px 8px rgba(0,0,0,0.6);
+}
+input[type="text"],
+input[type="Password"]
+{
+display: block;
+Box-sizing: border-box;
+border-right-width:medium;  
+margin-bottom: 40px;
+
+padding: 10px;
+width: 220px;
+height: 32px;
+border: 1px #0000FF;
+border-radius: 8px;
+outline: none;
+border-bottom: 1px solid #aaa;
+font-family: sans-serif;
+font-weight: 400;
+font-size: 15px;
+transition: 0.2s ease;
+}
+input[type="Submit"]
+{
+margin-bottom: 28px;
+text-align:center;
+width: 120;
+height: 32;
+background: url(Popular Waterfall GIF Collection1568547388545.gif);
+border: double;
+border-radius: 8px;
+color: #00FF00;
+font-family: sans-serif;
+font-weidth: 50px;
+text-transform: uppercase;
+transition: 0.8s ease;
+cursor: pointer;
+font-family:Arial, Helvetica, sans-serif;
+}
